@@ -93,4 +93,3 @@ typer.repeat();
 Well, you need to modify CSS file all by yourself, in this demo, I copied TheatherJs CSS to my page.
 
 Feel free to contact me. Thanks.
-

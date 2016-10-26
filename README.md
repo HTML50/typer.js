@@ -86,6 +86,13 @@ typer.end();
 typer.repeat();
 ```
 
+### typer.printDuration()
+
+```
+//will output time cost of your typer in console.log()
+typer.printDuration()
+```
+
 
 
 # others
